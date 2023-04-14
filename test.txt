@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 day l� brand main
 pull
+=======
+hello
+>>>>>>> week7
